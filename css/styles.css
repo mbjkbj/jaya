@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  }
+.jk{margin: 0;
+  overflow: hidden;
+  position: fixed;
+  color: white;
+   word-spacing: 5px;
+    width: 100%;
+    display: block;
+    padding: 8px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: black;
+}
+.lk{
+  display: inline;
+  position: relative;
+  top: 10px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family: cursive;
+}
+.ll{
+  list-style-type: none;
+ margin:  0;
+ padding: 0;
+ position: relative;
+ left:  1300px;
+}
+.kalp{
+  margin-bottom:0;
+}
+li{
+  display: inline;
+}
+.jkms{
+  width: 900px;
+  position: absolute;
+  left: 100px;
+  top: 80px;
+  font-family: cursive;
+  background-color: #EDEDED;
+  border-radius: 10%;
+}
+.pp{
+  position: absolute;
+  top:1000px;
+}
